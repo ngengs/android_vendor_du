@@ -38,3 +38,7 @@ PRODUCT_PACKAGES += \
     libFFmpegExtractor \
     libnamparser
 endif
+
+# KernelAdiutorMod
+PRODUCT_PACKAGES += \
+    KernelAdiutorMod
